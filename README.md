@@ -10,4 +10,4 @@ Why use MVP?
 
 - MVP makes views independent from our data source. We divide the application into at least three different layers, which lets us test them independently. With MVP we take most of the logic out from the activities.
 - With MVP, application is easily extensible and maintainable.
-- View and Model aren√≠t tightly  coupled for clear separation of concerns.
+- View and Model arenít tightly  coupled for clear separation of concerns.
